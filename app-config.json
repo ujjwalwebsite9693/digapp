@@ -1,5 +1,6 @@
 {
-  "su": "nIPa06nnxXNFa1JFHmIwf41ZC1+mCPBhGJrekyTgn3Y=",
-  "au": "nIPa06nnxXNFa1JFHmIwf6rL/m7tT4m/785ULkQ41KU=",
-  "ms": "2lrTw7T1UTfjo6plEqmh37ZXVs7V6BJkctzlOX3PKWg="
+  "su": "ENCRYPTED_PUBLIC_SERVER_URL",
+  "au": "ENCRYPTED_ADMIN_PAGE_DIRECT_IP_URL",
+  "ms": "2lrTw7T1UTfjo6plEqmh37ZXVs7V6BJkctzlOX3PKWg=",
+  "ts": "ENCRYPTED_TAILSCALE_DIRECT_IP_PORT_4000"
 }
